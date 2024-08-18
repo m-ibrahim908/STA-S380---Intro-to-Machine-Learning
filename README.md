@@ -3,6 +3,6 @@ Project assignments covered under STA S380 - Intro to Machine Learning course at
 
 Team Members:
 Muhammad Ibrahim (mi5984)
-Karthik Thiagarajan
-Shafee Syed Quadri
+Karthik Thiagarajan 
+Shafee Syed Quadri (ss229498)
 Thomas Stakrie
